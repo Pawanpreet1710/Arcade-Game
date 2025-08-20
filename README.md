@@ -18,3 +18,4 @@ This is a simple arcade game built with Python and Pygame. Use the arrow keys to
    ```
 
 Enjoy the game!
+
